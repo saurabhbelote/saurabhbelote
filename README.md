@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saurabhbelote
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 👀 I’m interested in Artificial intelligence research
+- 🌱 I’m currently learning Transformers, CNN, RNN
+- 💞️ I’m looking to collaborate on Artificial intelligence research
 - 📫 How to reach me saurabhbelote112@gmail.com
 
 <!---
